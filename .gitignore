@@ -3,7 +3,7 @@
 node_modules/
 dist/
 test/
-
+.idea
 
 # config
 package-lock.json
